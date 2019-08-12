@@ -9,6 +9,23 @@ At some point, you'll want to just view the contents of a Jupyter Notebook file 
 ## Requirements
 * Python
 
+## Setting Up
+Install the dependencies in the requirements file
+```bash
+pip install --update -r requirements.txt
+```
+
+## Usage
+Viewing a IPYNB file
+```bash
+viewer.py mynotebook.ipynb
+```
+Getting Help
+```bash
+viewer.py -h
+viewer.py --help
+```
+
 ## Author(s)
 * LordGhostX
 
