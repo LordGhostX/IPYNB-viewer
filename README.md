@@ -1,3 +1,5 @@
+![jupter logo](img/logo.png)
+
 # IPYNB Viewer
 
 Instantly view IPYNB (Jupyter Notebook) files without having to fire up Anaconda or jupyter.
@@ -9,3 +11,6 @@ At some point, you'll want to just view the contents of a Jupyter Notebook file 
 
 ## Author(s)
 * LordGhostX
+
+## License
+[**MIT**](https://opensource.org/licenses/MIT)
