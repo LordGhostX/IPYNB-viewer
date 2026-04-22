@@ -1,2 +1,2 @@
 nbformat==4.4.0
-nbconvert==7.17.0
+nbconvert==7.17.1
